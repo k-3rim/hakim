@@ -1044,6 +1044,13 @@
                     "public": false
                 }
             ]
+        },
+        {
+            "key": "9652947a-37c7-44cf-9727-8d340b7829ec",
+            "title": "بنر حكيم",
+            "icon": "sicon-store",
+            "path": "baner1",
+            "fields": []
         }
     ],
     "support_url": null,
