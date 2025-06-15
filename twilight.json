@@ -1040,19 +1040,8 @@
                     "placeholder": "e.g. https://hostname.com/image.png",
                     "icon": "sicon-image",
                     "value": null,
-                    "required": false
-                },
-                {
-                    "id": "mobile.hakim.banner",
-                    "type": "string",
-                    "format": "image",
-                    "label": "mobile.hakim.banner",
-                    "description": "1080*900 banner",
-                    "labelHTML": null,
-                    "placeholder": "e.g. https://hostname.com/image.png",
-                    "icon": "sicon-image",
-                    "value": null,
-                    "required": false
+                    "required": true,
+                    "public": false
                 }
             ]
         }
