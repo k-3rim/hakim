@@ -1031,17 +1031,31 @@
             "path": "hammim.baner",
             "fields": [
                 {
-                    "id": "pc.hakim.banner",
-                    "type": "string",
-                    "format": "image",
-                    "label": "pc.hakim.banner",
-                    "description": "1920*1080 banner",
+                    "id": "banner_last",
+                    "type": "collection",
+                    "format": "collection",
+                    "label": "banner_last",
+                    "description": null,
                     "labelHTML": null,
-                    "placeholder": "e.g. https://hostname.com/image.png",
-                    "icon": "sicon-image",
-                    "value": null,
-                    "required": true,
-                    "public": false
+                    "item_label": null,
+                    "icon": "sicon-list-add",
+                    "fields": [
+                        {
+                            "id": "banner_last.image",
+                            "type": "string",
+                            "format": "image",
+                            "label": "Image",
+                            "description": "image 1920*1080",
+                            "labelHTML": null,
+                            "placeholder": "e.g. https://hostname.com/image.png",
+                            "icon": "sicon-image",
+                            "value": null,
+                            "required": true
+                        }
+                    ],
+                    "value": [],
+                    "minLength": 1,
+                    "maxLength": 5
                 }
             ]
         },
