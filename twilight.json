@@ -1023,6 +1023,13 @@
                     "maxLength": 30
                 }
             ]
+        },
+        {
+            "key": "96dfa136-4104-40b5-bbab-5a1eba376056",
+            "title": "hamim banner",
+            "icon": "sicon-store",
+            "path": "hammim.baner",
+            "fields": []
         }
     ],
     "support_url": null,
