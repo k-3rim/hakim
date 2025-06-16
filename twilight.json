@@ -1065,6 +1065,13 @@
             "icon": "sicon-store",
             "path": "baner1",
             "fields": []
+        },
+        {
+            "key": "c38dcbf8-6c2a-4c84-b6f9-388064c853bc",
+            "title": "عداد",
+            "icon": "sicon-store",
+            "path": "countdown.components",
+            "fields": []
         }
     ],
     "support_url": null,
