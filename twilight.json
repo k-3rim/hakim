@@ -1071,7 +1071,17 @@
             "title": "عداد",
             "icon": "sicon-store",
             "path": "countdown.components",
-            "fields": []
+            "fields": [
+                {
+                    "id": "title.h",
+                    "type": "static",
+                    "format": "title",
+                    "label": "title.h",
+                    "value": null,
+                    "variant": "h1",
+                    "icon": "sicon-format-text"
+                }
+            ]
         }
     ],
     "support_url": null,
